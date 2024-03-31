@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @liz-garcia
+- 👋 Hi, I’m Liz.
 - 👩🏻‍💻 A calm, curious and positive individual with a passion for design, technology and the digital world.
 - 😍 10+ years of experience turning ideas into reality, I adore creating beautiful products!
 - 💚 Developing challenging and creative projects with excellence brings me joy.
