@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="220" src="https://lh3.googleusercontent.com/d/1aYP17MdiJT-BbMEjcRlvk0joWXfCAVKP"  />
+<img align="right" height="180" src="https://lh3.googleusercontent.com/d/1aYP17MdiJT-BbMEjcRlvk0joWXfCAVKP"  />
 
 ###
 
@@ -13,8 +13,8 @@
 <br clear="both">
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liz-garcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liz-garcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=liz-garcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liz-garcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
