@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><br/>Calm, curious and positive individual with a passion for design, technology and the digital world. I adore creating beautiful products!<br><br>☕️ A firm believer in hard-work, coffee and the magic of the Git.<br>🌱 Currently upgrading my expertise in Canvas.<br>🌟 Interested in learning TypeScript and React native.</p>
+<p align="left"><br/>Just a calm, curious and positive individual with a passion for design, technology and the digital world. I adore creating beautiful products!<br><br>☕️ A firm believer in hard-work, coffee and the magic of the Git.<br>🌱 Currently upgrading my expertise in Canvas.<br>🌟 Interested in learning TypeScript and React native.</p>
 
 ###
 
