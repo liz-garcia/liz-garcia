@@ -7,8 +7,8 @@
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liz-garcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liz-garcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=liz-garcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liz-garcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 <br clear="both">
@@ -50,19 +50,19 @@
 <div align="center">
   <figure>
     <a href="https://github.com/liz-garcia/easy-chef-ai" target="_blank">
-      <img src="https://lh3.googleusercontent.com/d/1duzg_kA1Ur3qm4R6PNoYHicIp-tf1a7y" height="230" alt="EasyChefAI"  />
+      <img src="https://lh3.googleusercontent.com/d/1duzg_kA1Ur3qm4R6PNoYHicIp-tf1a7y" height="250" alt="EasyChefAI"  />
     </a>
   </figure>
   <img width="5" />
   <figure>
     <a href="https://github.com/liz-garcia/Lofi-CD-Player" target="_blank">
-    <img src="https://lh3.googleusercontent.com/d/139hI73ttO-8xASjExMQhzc9GlRvn2ZNo" height="230" alt="Lofi CD-Player"  />
+    <img src="https://lh3.googleusercontent.com/d/139hI73ttO-8xASjExMQhzc9GlRvn2ZNo" height="250" alt="Lofi CD-Player"  />
     </a>
   </figure>
   <img width="5" />
   <figure>
     <a href="https://github.com/liz-garcia/Q-A-sessions" target="_blank">
-    <img src="https://lh3.googleusercontent.com/d/1x1TSMXLi0wKjdvhShqrP-li9M5mcPIi4" height="230" alt="Q-A-Sessions"  />
+    <img src="https://lh3.googleusercontent.com/d/1x1TSMXLi0wKjdvhShqrP-li9M5mcPIi4" height="250" alt="Q-A-Sessions"  />
     </a>
   </figure>
 </div>
