@@ -50,13 +50,19 @@
 <div align="center">
   <figure>
     <a href="https://github.com/liz-garcia/easy-chef-ai" target="_blank">
-      <img src="https://lh3.googleusercontent.com/d/1duzg_kA1Ur3qm4R6PNoYHicIp-tf1a7y" height="400" alt="EasyChefAI"  />
+      <img src="https://lh3.googleusercontent.com/d/1duzg_kA1Ur3qm4R6PNoYHicIp-tf1a7y" height="230" alt="EasyChefAI"  />
     </a>
   </figure>
   <img width="5" />
   <figure>
     <a href="https://github.com/liz-garcia/Lofi-CD-Player" target="_blank">
-    <img src="https://lh3.googleusercontent.com/d/139hI73ttO-8xASjExMQhzc9GlRvn2ZNo" height="400" alt="Lofi CD-Player"  />
+    <img src="https://lh3.googleusercontent.com/d/139hI73ttO-8xASjExMQhzc9GlRvn2ZNo" height="230" alt="Lofi CD-Player"  />
+    </a>
+  </figure>
+  <img width="5" />
+  <figure>
+    <a href="https://github.com/liz-garcia/Q-A-sessions" target="_blank">
+    <img src="https://lh3.googleusercontent.com/d/1x1TSMXLi0wKjdvhShqrP-li9M5mcPIi4" height="230" alt="Q-A-Sessions"  />
     </a>
   </figure>
 </div>
