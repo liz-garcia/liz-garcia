@@ -1,23 +1,15 @@
 <h1 align="center">👋 Hi, I’m Liz. Web developer & designer.</h1>
 
-###
-
 <img align="right" height="180" src="https://lh3.googleusercontent.com/d/1aYP17MdiJT-BbMEjcRlvk0joWXfCAVKP"  />
-
-###
 
 <p align="left"><br/>Just a calm, curious and positive individual with a passion for design, technology and the digital world. I adore creating beautiful products!<br><br>☕️ A firm believer in hard-work, coffee and the magic of the Git.<br>🌱 Currently upgrading my knowledge about <i>Canvas</i>.<br>🌟 Interested in learning <i>TypeScript</i> and <i>React native</i>.</p>
 
-###
+#
 
-<br clear="both">
-<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liz-garcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liz-garcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=liz-garcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liz-garcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="190" alt="languages graph"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -49,23 +41,31 @@
   <img src="https://skillicons.dev/icons?i=pr" height="35" alt="adobepremierepro logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <p align="center">🎓 Visual Design & Communication, Full Stack Web Development<br>👩‍🎓 <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a> Amsterdam Alumni<br>✉️ lizgarciamarin@gmail.com</p>
 
-###
-
-<br clear="both">
-
 <h2 align="left">Featured Projects</h2>
+
+<div align="center">
+  <figure>
+    <a href="https://github.com/liz-garcia/easy-chef-ai" target="_blank">
+      <img src="https://lh3.googleusercontent.com/d/1duzg_kA1Ur3qm4R6PNoYHicIp-tf1a7y" height="400" alt="EasyChefAI"  />
+    </a>
+  </figure>
+  <img width="5" />
+  <figure>
+    <a href="https://github.com/liz-garcia/Lofi-CD-Player" target="_blank">
+    <img src="https://lh3.googleusercontent.com/d/139hI73ttO-8xASjExMQhzc9GlRvn2ZNo" height="400" alt="Lofi CD-Player"  />
+    </a>
+  </figure>
+</div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lizgarciamarin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
