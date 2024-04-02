@@ -45,7 +45,9 @@
 
 <p align="center">🎓 Visual Design & Communication, Full Stack Web Development<br>👩‍🎓 <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a> Amsterdam Alumni<br>✉️ lizgarciamarin@gmail.com</p>
 
-<h2 align="left">Featured Projects</h2>
+###
+
+<h2 align="center">Featured Projects</h2>
 
 <div align="center">
   <figure>
