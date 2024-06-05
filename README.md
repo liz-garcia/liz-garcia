@@ -2,7 +2,7 @@
 
 <img align="right" height="180" src="https://lh3.googleusercontent.com/d/1aYP17MdiJT-BbMEjcRlvk0joWXfCAVKP"  />
 
-<p align="left"><br/>Just a calm, curious and positive individual with a passion for design, technology and the digital world. I adore creating beautiful products!<br><br>☕️ A firm believer in hard-work, coffee and the magic of the Git.<br>🌱 Currently upgrading my knowledge about <i>Canvas</i>.<br>🌟 Excited to dive into learning <i>TypeScript</i> and <i>React native</i>.</p>
+<p align="left"><br/>Just a calm, curious and positive individual with a passion for design, technology and the digital world. I adore creating beautiful products!<br><br>☕️ A firm believer in hard-work, coffee and the magic of the Git.<br>🌱 Currently upgrading my knowledge about <i>Tailwind CSS</i>.<br>🌟 Excited to dive into <i>Cypress</i> and <i>Gemini API</i>.</p>
 
 #
 
