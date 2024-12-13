@@ -6,6 +6,8 @@
 
 #
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liz-garcia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liz-garcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  />
@@ -46,18 +48,9 @@
 
 <br clear="both">
 
-<h2 align="center">Check out my CV on LinkedIn!</h2>
-
-<p align="center">🎓 Visual Design & Communication, Full Stack Web Development<br>👩‍🎓 <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a> Amsterdam Alumni<br>✉️ lizgarciamarin@gmail.com</p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/lizgarciamarin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-</div>
-
 ###
 
-<h2 align="center">Featured Projects</h2>
+<h1 align="center">Featured Projects</h2>
 
 <div align="center">
   <figure>
@@ -86,7 +79,13 @@
   <img width="1" />
 </div>
 
-###
+<br clear="both">
+
+#
+
+<br clear="both">
+
+<p align="center">🎓 Visual Design & Communication, Full Stack Web Development<br>👩‍🎓 <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a> Amsterdam Alumni<br>✉️ lizgarciamarin@gmail.com</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lizgarciamarin" target="_blank">
