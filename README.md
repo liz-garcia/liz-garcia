@@ -2,7 +2,7 @@
 
 <img align="right" height="180" src="https://lh3.googleusercontent.com/d/1aYP17MdiJT-BbMEjcRlvk0joWXfCAVKP"  />
 
-<p align="left"><br/>Just a calm, curious and positive individual with a passion for design, technology and the digital world. I adore creating beautiful products!<br><br>☕️ A firm believer in hard-work, coffee and the magic of the Git.<br>🌱 Currently upgrading my knowledge about <i>Tailwind CSS</i>.<br>🌟 Excited to dive into <i>TypeScript</i> and <i>Python</i>.</p>
+<p align="left"><br/>Just a calm, curious and positive individual with a passion for design, technology and the digital world. I adore creating beautiful products!<br><br>☕️ A firm believer in hard-work, coffee and the magic of the Git.<br>🌱 Currently upgrading my knowledge about <i>Java</i>.<br>🌟 Excited to dive into <i>TypeScript</i> and <i>Python</i>.</p>
 
 #
 
@@ -46,7 +46,14 @@
 
 <br clear="both">
 
+<h2 align="center">Check out my CV on LinkedIn!</h2>
+
 <p align="center">🎓 Visual Design & Communication, Full Stack Web Development<br>👩‍🎓 <a href="https://github.com/HackYourFuture" target="_blank">HackYourFuture</a> Amsterdam Alumni<br>✉️ lizgarciamarin@gmail.com</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/lizgarciamarin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
